@@ -123,6 +123,7 @@ int main() {
         // -------- INVALID INPUT --------
         default:
             std::cout << "Invalid operation! Try again.\n";
+            break;
     }
 
     return 0;
